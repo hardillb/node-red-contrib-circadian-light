@@ -7,7 +7,7 @@
 ## Usage
 
 You set your lat/lon and the reporting interval and then the node outputs a message 
-with the current position of the sun and its % of daily light:
+with the current position of the sun and its % of maximum daily height:
 
 ```
 {
